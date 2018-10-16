@@ -11,7 +11,7 @@
 ### If you haven't installed the npms do it now before going any further. The app will not run without the specified npms.
 
 
-### In the terminal run bamanzon.js
+### In the terminal run bamazon.js
  
 
 ### Select your product by item_id

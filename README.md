@@ -15,17 +15,17 @@
 
 ### Select your product by item_id
  Selecting item "*4*" from the given table pic:
-
+ ![alt text](https://github.com/AviatorDB4/bamazon/blob/master/images/Screen%20Shot%202018-10-16%20at%2012.39.46%20AM.png)
 ### Choose the amount of the product you wish to order
  Ordering "*10*" of item "*4*" pic:
- ![alt text](https://github.com/AviatorDB4/bamazon/blob/master/images/Screen%20Shot%202018-10-16%20at%2012.39.46%20AM.png)
+ ![alt text](https://github.com/AviatorDB4/bamazon/blob/master/images/Screen%20Shot%202018-10-16%20at%2012.40.35%20AM.png)
 
 ### Confirming order if enough of choosen item is in stock
  In stock success pic:
 
 ### If the customer's order can not be completed prompt the user to enter a valid input
  Invalid item_id pic:
-
+![alt text](https://github.com/AviatorDB4/bamazon/blob/master/images/Screen%20Shot%202018-10-16%20at%2012.41.25%20AM.png)
  Not enough instock pic:
-
+![alt text](https://github.com/AviatorDB4/bamazon/blob/master/images/Screen%20Shot%202018-10-16%20at%2012.41.25%20AM.png)
  User enters a number less than or equal to 0 for there order pic:

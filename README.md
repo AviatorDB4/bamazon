@@ -18,6 +18,7 @@
 
 ### Choose the amount of the product you wish to order
  Ordering "*10*" of item "*4*" pic:
+ ![Screenshot](Screen Shot 2018-10-16 at 12.39.46 AM.png)
 
 ### Confirming order if enough of choosen item is in stock
  In stock success pic:

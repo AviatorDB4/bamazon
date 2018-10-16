@@ -8,10 +8,10 @@
 
 **Running the App**
 ### If you haven't installed the npms do it now before going any further. The app will not run without the specified npms.
- Installing npm pic:
+
 
 ### In the terminal run bamanzon.js
- Running of bamazon.js pic:
+ 
 
 ### Select your product by item_id
  Selecting item "*4*" from the given table pic:

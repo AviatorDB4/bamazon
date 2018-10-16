@@ -1,5 +1,6 @@
 #  *bamazon user instructions*
-
+## If the submitted link only  shows the read me here is a direct link to the github repo:
+### https://github.com/AviatorDB4/bamazon
 * npm requirements for this app to run correctly:
   * npm install mysql
   * npm install inquirer

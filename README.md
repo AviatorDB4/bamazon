@@ -16,7 +16,7 @@
 
 ### Select your product by item_id
  Selecting item "*4*" from the given table pic:
- ![alt text](https://github.com/AviatorDB4/bamazon/blob/master/images/Screen%20Shot%202018-10-16%20at%2012.39.46%20AM.png)
+ ![alt text](https://raw.githubusercontent.com/AviatorDB4/bamazon/master/images/Screen%20Shot%202018-10-16%20at%2012.39.46%20AM.png)
 ### Choose the amount of the product you wish to order
  Ordering "*10*" of item "*4*" pic:
  ![alt text](https://github.com/AviatorDB4/bamazon/blob/master/images/Screen%20Shot%202018-10-16%20at%2012.40.35%20AM.png)
